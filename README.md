@@ -1,3 +1,3 @@
-# Speech-to-Text-
+# Speech-to-Text
 
 spaCy from NLP and NER
